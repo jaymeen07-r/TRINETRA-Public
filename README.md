@@ -96,8 +96,7 @@ TRINETRA is composed of multiple intelligent backends working together:
 ## 👨‍💻 Author
 
 **Jaymeen Vaghela**  
-Computer Engineer | Founder @ TRINETRA  
-Focused on AI, system design & future-ready digital security
+ Founder @ TRINETRA
 
 ---
 
