@@ -14,10 +14,10 @@ To build a **trusted digital intelligence layer** that helps users identify scam
 
 ## 🧩 Application Overview
 
-## Application Name
+### Application Name
 **TRINETRA**
 
-## 🧠 Core System Architecture (High-Level)
+### 🧠 Core System Architecture (High-Level)
 
 TRINETRA is composed of multiple intelligent backends working together:
 
@@ -27,27 +27,27 @@ TRINETRA is composed of multiple intelligent backends working together:
 - AI-driven Analytics & Reporting   
 
 
-## 📰 Misinformation Detection Engine
+### 📰 Misinformation Detection Engine
 
-### Detection Tiers
+#### Detection Tiers
 
-#### 1. Basic
+##### 1. Basic
 - Limited daily inputs
 - Image & text verification
 - Core NLP & classification pipeline
 
-#### 2. Standard
+##### 2. Standard
 - Expanded limits
 - AI-assisted chat
 - Advanced classification
 
-#### 3. Premium
+##### 3. Premium
 - Unlimited detection
 - Deepfake detection (media)
 - AI chat + voice assistant
 
 
-## 📞 Call Fraud Detection System
+### 📞 Call Fraud Detection System
 
 - Real-time number analysis
 - Local & global fraud detection
@@ -56,7 +56,7 @@ TRINETRA is composed of multiple intelligent backends working together:
 - Premium global blocking & reporting
 
 
-## ✉️ SMS Fraud Detection System
+### ✉️ SMS Fraud Detection System
 
 - Provider & content analysis
 - Dataset-based scam detection
