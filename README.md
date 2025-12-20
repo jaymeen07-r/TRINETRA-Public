@@ -14,8 +14,7 @@ To build a **trusted digital intelligence layer** that helps users identify scam
 
 ## 🧩 Application Overview
 
-### Application Name
-**TRINETRA**
+### Application Name - **TRINETRA**
 
 ### 🧠 Core System Architecture (High-Level)
 
