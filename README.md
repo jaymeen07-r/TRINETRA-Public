@@ -17,27 +17,6 @@ To build a **trusted digital intelligence layer** that helps users identify scam
 ### Application Name
 **TRINETRA**
 
-### UI Design
-- **Admin Desktop**
-  - Full system access
-- **User Dashboard**
-  - User-side access only
-
-### Backend Support
-- **Admin Desktop**
-  - Full backend access
-- **User Dashboard**
-  - No direct backend access
-
----
-
-## 👥 Team Structure (Planned)
-
-- 2 × Senior Admins  
-- 2 × Admins  
-- 2 × Customer Care (optional)  
-- 1 × Community Team  
-
 ---
 
 ## 🧠 Core System Architecture (High-Level)
@@ -47,62 +26,10 @@ TRINETRA is composed of multiple intelligent backends working together:
 - Fraud Call Detection Engine  
 - SMS Scam Detection Engine  
 - Misinformation Verification Engine  
-- AI-driven Analytics & Reporting  
-- Secure Admin & Monitoring Systems  
+- AI-driven Analytics & Reporting   
 
 ---
 
-## 🗄️ Database Architecture (Conceptual)
-
-> Actual schemas are private. Below is a logical overview.
-
-1. Authentication Database  
-2. User Profile Database  
-3. Call Logs (Temporary)  
-4. Global Fraud Call Database  
-5. Fraud SMS Database  
-6. Local SMS Database  
-7. Fact Verification Database  
-8. News Verification Database  
-9. Dashboard Cache Database  
-10. Analytics Database  
-11. Media Storage  
-12. Notification System  
-13. Admin Control Database  
-14. Logs & Reports  
-15. Chatbot Interaction Logs  
-16. Payments & Transactions  
-17. Subscription Plans  
-18. Community Reports Database  
-
----
-
-## 📊 Dataset Usage (Abstracted)
-
-- User-provided phone numbers (call detection)
-- Device contact dataset *(premium feature, local-only)*
-- User-provided SMS samples
-- Verified fraud datasets
-
-> All datasets follow **explicit user consent and minimization principles**.
-
----
-
-## 🛠️ Admin Panel Capabilities (Overview)
-
-### Authentication
-- OTP-based admin login
-- Multi-channel verification (email + phone)
-
-### Admin Modules
-- **UI/UX Management**
-  - Interface monitoring
-  - UX updates
-- **Backend Management**
-  - Server health & uptime monitoring
-  - Database access control
-
----
 
 ## 📰 Misinformation Detection Engine
 
@@ -142,21 +69,6 @@ TRINETRA is composed of multiple intelligent backends working together:
 - Real-time classification
 - Color-coded inbox for users
 - Fraud-only storage for analysis
-
----
-
-## ⚖️ Legal & Compliance Awareness (India-Focused)
-
-TRINETRA is designed with compliance-first principles:
-
-- **TRAI / TCCCPR regulations**
-- **MeitY IT Intermediary Rules (2021)**
-- **CERT-In security & incident reporting**
-- Explicit user consent flows
-- Data minimization & encryption
-- Grievance redressal mechanisms
-
-> This repository does **not** provide legal advice. Final compliance will be reviewed with legal professionals.
 
 ---
 
